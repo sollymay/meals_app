@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text('DeliMeals'),
       ),
       body: Center(
-        child: Text('Navigation Time!'),
+        child: Text('Test this!'),
       ),
     );
   }
